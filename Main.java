@@ -3,7 +3,7 @@ public class Main
 {
     public static void main(String args[])
     {
-        int obereGrenze = 50;
+        int obereGrenze = 75;
         
         int summe = 0;
         
