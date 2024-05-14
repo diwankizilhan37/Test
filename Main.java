@@ -8,6 +8,7 @@ public class Main
         int summe = 0;
         
         for(int i = 1; i <= obereGrenze; ++i)
+
         {
             summe += 1;
         }
@@ -15,6 +16,7 @@ public class Main
         int mult = 1;
         
         for(int i = 2; i <= obereGrenze; ++i)
+
         {
             mult *= i;
         }
