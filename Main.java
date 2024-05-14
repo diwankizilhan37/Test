@@ -25,5 +25,6 @@ public class Main
         System.out.println("Summe: " + summe + " Multiplikation: " + mult);
         
         //Master Update 1
+        //Master Update 2
     }
 }
