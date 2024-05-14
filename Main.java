@@ -16,5 +16,7 @@ public class Main
         {
             mult = mult * i;
         }
+        
+        System.out.println("Summe: " + summe + "Multiplikation: " + mult);
     }
 }
